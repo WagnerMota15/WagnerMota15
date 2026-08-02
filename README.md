@@ -1,6 +1,6 @@
 ## Olá!!! Meu nome é Wagner Mota👋
 
-- ⏳ Atualmente sou estudante de Ciência da Computação (7 período) na Universidade Federal de Sergipe.
+- ⏳ Atualmente sou estudante de Ciência da Computação (8 período) na Universidade Federal de Sergipe.
 - 📘 *Estudando atualmente:* Front-end (React) e Back-end (Laravel).
 - 🧑🏻‍💻 *Áreas de interesse:* Desenvolvimento Full stack(front-end e/ou back-end).
 - 🫡 *Disponibilidade/Interesse:* estágio no período matutino na área de desenvolvimento.
